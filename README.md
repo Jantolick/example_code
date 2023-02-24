@@ -7,6 +7,8 @@ Primary features:
 - Rock Paper Scissors, a scheduler bot with a demo channel announcement setup and user registration system
 - Bot puppeting for channels
 
+Since it's a small bot made for personal use on small to medium sized channels, I tend to just spin it up with nodemon and keep basic tabs on it, committing and updating directly.
+
 .env file in root requires:
 
 - token: the Discord token for bot use
